@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/goodsrent-landing-page/static/css/main.3ac8c7f0.chunk.css",
+    "main.js": "/goodsrent-landing-page/static/js/main.855f01f7.chunk.js",
+    "main.js.map": "/goodsrent-landing-page/static/js/main.855f01f7.chunk.js.map",
+    "runtime-main.js": "/goodsrent-landing-page/static/js/runtime-main.b1a64279.js",
+    "runtime-main.js.map": "/goodsrent-landing-page/static/js/runtime-main.b1a64279.js.map",
+    "static/js/2.9219cfd5.chunk.js": "/goodsrent-landing-page/static/js/2.9219cfd5.chunk.js",
+    "static/js/2.9219cfd5.chunk.js.map": "/goodsrent-landing-page/static/js/2.9219cfd5.chunk.js.map",
+    "static/js/3.21c5282f.chunk.js": "/goodsrent-landing-page/static/js/3.21c5282f.chunk.js",
+    "static/js/3.21c5282f.chunk.js.map": "/goodsrent-landing-page/static/js/3.21c5282f.chunk.js.map",
+    "index.html": "/goodsrent-landing-page/index.html",
+    "static/css/main.3ac8c7f0.chunk.css.map": "/goodsrent-landing-page/static/css/main.3ac8c7f0.chunk.css.map",
+    "static/js/2.9219cfd5.chunk.js.LICENSE.txt": "/goodsrent-landing-page/static/js/2.9219cfd5.chunk.js.LICENSE.txt",
+    "static/media/Worek.40ae7dcd.png": "/goodsrent-landing-page/static/media/Worek.40ae7dcd.png",
+    "static/media/biuro.0d20232b.jpg": "/goodsrent-landing-page/static/media/biuro.0d20232b.jpg",
+    "static/media/girl.70209ba1.png": "/goodsrent-landing-page/static/media/girl.70209ba1.png",
+    "static/media/logo.58316572.png": "/goodsrent-landing-page/static/media/logo.58316572.png",
+    "static/media/ubrania.68994ebc.jpg": "/goodsrent-landing-page/static/media/ubrania.68994ebc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1a64279.js",
+    "static/js/2.9219cfd5.chunk.js",
+    "static/css/main.3ac8c7f0.chunk.css",
+    "static/js/main.855f01f7.chunk.js"
+  ]
+}
