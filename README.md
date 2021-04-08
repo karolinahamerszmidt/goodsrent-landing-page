@@ -1,3 +1,3 @@
 # goodsrent
 
-[preview](https://karolinahamerszmidt.github.io/goodsrent)
+[preview](https://karolinahamerszmidt.github.io/goodsrent/)
